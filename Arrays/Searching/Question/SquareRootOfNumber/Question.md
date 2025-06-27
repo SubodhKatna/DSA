@@ -116,7 +116,3 @@ Design an efficient method to compute the **integer part of the square root** of
 | 10    | 3               |
 | 16    | 4               |
 | 2147395599 | 46339      |
-
----
-
-Let me know if you'd like versions for computing square root with decimal precision or using Newton’s method.

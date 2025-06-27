@@ -92,7 +92,3 @@ The numbers within the range [-7, 19] are: [2, 5, 8, 12, 16] → 5 elements.
 - Range Queries
 - Linear Search
 - Optimization using Binary Search (potential)
-
----
-
-Let me know if you want an optimized binary search version or implementation in a different programming language.

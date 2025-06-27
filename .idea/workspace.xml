@@ -4,25 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19573bfd-8fa0-441a-80ea-af01e6ce614b" name="Changes" comment="removed the merge sort as it is not completed at present">
-      <change afterPath="$PROJECT_DIR$/Arrays/Searching/Question/SquareRootOfNumber/Question.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/Soritng/Question/CheckIfAnagram/Anagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/Soritng/Question/CheckIfAnagram/Question.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/Soritng/Question/DuplicateInArray/CheckDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/Soritng/Question/DuplicateInArray/Question.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/Soritng/Question/EvenAndOddSortedRearrangment/EvenAndOddInOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/Soritng/Question/EvenAndOddSortedRearrangment/Question.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/Soritng/Question/MergeSortedArrays/MergeTwoSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/Soritng/Question/MergeSortedArrays/Question.md" afterDir="false" />
+    <list default="true" id="19573bfd-8fa0-441a-80ea-af01e6ce614b" name="Changes" comment="Done some question on sorting">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/Question/DutchNationalFlagAlgorithm/Question.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/Question/DutchNationalFlagAlgorithm/answer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/Question/SubArrayWithSizeKWithSumGreaterThanOrEqualToTarget/BruteForce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/Question/SubArrayWithSizeKWithSumGreaterThanOrEqualToTarget/Optimization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/Question/SubArrayWithSizeKWithSumGreaterThanOrEqualToTarget/Question.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/TwoDimensionalArray/Initialization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/TwoDimensionalArray/Question/MaxElement/Max.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/TwoDimensionalArray/Question/MaxElement/Question.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/TwoDimensionalArray/Question/SnakeTraversal/Question.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/TwoDimensionalArray/Question/SnakeTraversal/Snake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/TwoDimensionalArray/Question/SpiralTraversal/Question.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/TwoDimensionalArray/Question/SpiralTraversal/SpiralInsertion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/TwoDimensionalArray/Question/SumOfAllTheElements/Question.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/TwoDimensionalArray/Question/SumOfAllTheElements/Sum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/Searching/Question/Question 1/MissingNumberInSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/Searching/Question/MissingNumberInArray/MissingNumberInSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/Searching/Question/Question 1/Question.md" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/Searching/Question/MissingNumberInArray/Question.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/Searching/Question/Question2/Question.md" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/Searching/Question/ElementWithinRange/Question.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/Searching/Question/Question2/SquareRoot.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/Searching/Question/SquareRootOfNumber/SquareRoot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/Searching/Question/Question3/Range.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/Searching/Question/ElementWithinRange/Range.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/Searching/Question/Question3/RangeInSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/Searching/Question/ElementWithinRange/RangeInSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/Soritng/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/Soritng/InsertionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/Soritng/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/Soritng/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/Searching/Question/ElementWithinRange/Question.md" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/Searching/Question/ElementWithinRange/Question.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/Searching/Question/SquareRootOfNumber/Question.md" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/Searching/Question/SquareRootOfNumber/Question.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +38,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Arrays/TwoDimensionalArray/Question/SnakeTraversal/Snake.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -105,12 +108,21 @@
       <option name="project" value="LOCAL" />
       <updated>1750913072439</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Done some question on sorting">
+      <option name="closed" value="true" />
+      <created>1750997693291</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1750997693291</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="started learning DSA" />
     <MESSAGE value="removed the merge sort as it is not completed at present" />
-    <option name="LAST_COMMIT_MESSAGE" value="removed the merge sort as it is not completed at present" />
+    <MESSAGE value="Done some question on sorting" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done some question on sorting" />
   </component>
 </project>

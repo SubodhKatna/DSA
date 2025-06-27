@@ -1,7 +1,7 @@
 public class SelectionSort {
 
     public static void main(String[] args) {
-        int[] arr = {5, 1, 4, 2, 8};
+        int[] arr = {5, 3, 1, 9, 8, 2, 4, 7};
 
         Sort(arr);
         Print(arr);
@@ -15,14 +15,13 @@ public class SelectionSort {
 
     private static void Sort(int[] arr) {
         int len = arr.length;
-        for (int i = 0; i < len - 1; i++) {
+        for(int i = 0; i < len-1; i++){
             int minIndex = i;
-            for (int j = i + 1; j < len; j++) {
-                if (arr[j] < arr[minIndex]) {
+            for(int j = i+1; j< len; j++){
+                if(arr[j] < arr[minIndex]) {
                     minIndex = j;
                 }
             }
-            // Swap
             int temp = arr[minIndex];
             arr[minIndex] = arr[i];
             arr[i] = temp;

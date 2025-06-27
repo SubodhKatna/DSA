@@ -4,26 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19573bfd-8fa0-441a-80ea-af01e6ce614b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/Searching/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/Searching/BinarySearchFirstAndLastInstance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/Searching/Question/Question 1/MissingNumberInSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/Searching/Question/Question 1/Question.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/Searching/Question/Question2/Question.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/Searching/Question/Question2/SquareRoot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/Searching/Question/Question3/Range.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/Searching/Question/Question3/RangeInSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/Soritng/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/Soritng/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/Soritng/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/Soritng/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA.iml" afterDir="false" />
+    <list default="true" id="19573bfd-8fa0-441a-80ea-af01e6ce614b" name="Changes" comment="removed the merge sort as it is not completed at present">
+      <change afterPath="$PROJECT_DIR$/Arrays/Searching/Question/SquareRootOfNumber/Question.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/Soritng/Question/CheckIfAnagram/Anagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/Soritng/Question/CheckIfAnagram/Question.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/Soritng/Question/DuplicateInArray/CheckDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/Soritng/Question/DuplicateInArray/Question.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/Soritng/Question/EvenAndOddSortedRearrangment/EvenAndOddInOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/Soritng/Question/EvenAndOddSortedRearrangment/Question.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/Soritng/Question/MergeSortedArrays/MergeTwoSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/Soritng/Question/MergeSortedArrays/Question.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/Searching/Question/Question 1/MissingNumberInSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/Searching/Question/MissingNumberInArray/MissingNumberInSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/Searching/Question/Question 1/Question.md" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/Searching/Question/MissingNumberInArray/Question.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/Searching/Question/Question2/Question.md" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/Searching/Question/ElementWithinRange/Question.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/Searching/Question/Question2/SquareRoot.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/Searching/Question/SquareRootOfNumber/SquareRoot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/Searching/Question/Question3/Range.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/Searching/Question/ElementWithinRange/Range.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/Searching/Question/Question3/RangeInSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/Searching/Question/ElementWithinRange/RangeInSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/Soritng/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/Soritng/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/Soritng/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/Soritng/SelectionSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,19 +50,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;F:/Leetcode&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Global Libraries&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "F:/Leetcode",
+    "project.structure.last.edited": "Global Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Searching.Question.Question3" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\DSA\Arrays\Searching\Question" />
       <recent name="F:\DSA\Arrays\Searching\Question\Question 1" />
@@ -79,6 +81,36 @@
       <option name="presentableId" value="Default" />
       <updated>1750736885926</updated>
     </task>
+    <task id="LOCAL-00001" summary="started learning DSA">
+      <option name="closed" value="true" />
+      <created>1750912784822</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1750912784822</updated>
+    </task>
+    <task id="LOCAL-00002" summary="removed the merge sort as it is not completed at present">
+      <option name="closed" value="true" />
+      <created>1750913051170</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1750913051170</updated>
+    </task>
+    <task id="LOCAL-00003" summary="removed the merge sort as it is not completed at present">
+      <option name="closed" value="true" />
+      <created>1750913072439</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1750913072439</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="started learning DSA" />
+    <MESSAGE value="removed the merge sort as it is not completed at present" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed the merge sort as it is not completed at present" />
   </component>
 </project>
